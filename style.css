@@ -8,18 +8,11 @@ body {
     font-family: Century;
     color: #5d6063;
     display: flex;
-}
-
-.marginLeft {
-    width: 20%;
+    justify-content: center;
 }
 
 .mainBody {
-    width: 60%;
-}
-
-.marginLeft {
-    width: 20%;
+    
 }
 
 .header {
@@ -30,7 +23,7 @@ body {
 }
 
 .books {
-    margin-left: 30%;
+    
 }
 
 .footnotes {
